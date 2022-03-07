@@ -8,7 +8,7 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments: {
-			anytime: ["Salut JP l'immense bg!"]
+			anytime: ["Salut JP l'immense bg ! Le projet  avance ?"]
 		},
 		updateInterval: 30000,
 		remoteFile: null,
